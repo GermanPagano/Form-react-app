@@ -1,3 +1,16 @@
+# react practice exercise for freecodecamp course 
+
+is a form with a satisfaction survey for an online course academy
+
+
+![Sin título](https://user-images.githubusercontent.com/80891761/175464056-39bbb4a8-5d7a-4c39-b94a-7a0437910501.png)
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
